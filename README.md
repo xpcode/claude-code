@@ -5,13 +5,16 @@
 [文档在这里, 支持投稿 PR](https://ccb.agent-aura.top/)
 
 ---
+
 <p align="left">
   <a href="https://ai.teeqq.com" target="_blank">
     <img src="https://img.shields.io/badge/Featured_on-Teeqq_AI_Hub-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Teeqq AI Hub">
   </a>
 </p>
-本项目已收录于 **[Teeqq AI Hub](https://ai.teeqq.com)** — 全球 AI 资源风向标。您可以在那里探索更多实用的 AI 工具、独立开发变现创意与 GitHub 趋势开源项目。
-👉 **[立即访问 Teeqq AI Hub 🧭](https://ai.teeqq.com)**
+
+本项目已收录于 **[Teeqq AI Hub](https://www.teeqq.com)** — 全球 AI 资源风向标。您可以在那里探索更多实用的 AI 工具、独立开发变现创意与 GitHub 趋势开源项目。
+👉 **[立即访问 Teeqq AI Hub 🧭](https://www.teeqq.com)**
+
 ---
 
 
